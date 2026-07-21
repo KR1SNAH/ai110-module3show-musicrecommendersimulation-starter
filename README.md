@@ -44,9 +44,6 @@ Popularity is never scored on its own outside of `discovery_bias` — otherwise 
 
 The recommendation systems like the one used in Spotify use multiple signals to recommend songs. They use similarity scores between the songs based on their attributes, similarity between users, what time of day it is, which device they're listening on, which songs they usually skip, replay rate, as well as Deep Learning and some other metrics.
 
-The recommendation systems like the one used in Spotify use multiple signals to recommend songs. They use similarity scores between the songs based on their attributes, similarity between users, what time of day it is, which device they're listening on, which songs they usually skip, replay rate, as well as Deep Learning and some other metrics.
-
-
 ---
 
 ## Getting Started
